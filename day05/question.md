@@ -31,7 +31,6 @@ Your puzzle answer was 372671.
 
 
 
-
 --- Part Two ---
 
 Now, the jumps are even stranger: after each jump, if the offset was three or more, instead decrease it by 1. Otherwise, increase it by 1 as before.
