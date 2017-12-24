@@ -10,8 +10,7 @@ import (
 )
 
 const (
-	puzzleInput  = "day23/input.txt"
-	puzzleInput2 = "day23/input2.txt"
+	puzzleInput = "day23/input.txt"
 )
 
 const (
@@ -214,7 +213,7 @@ func part2() {
 			}
 		}
 		if factor {
-			h += 1
+			h++
 		}
 	}
 	fmt.Println(h)
